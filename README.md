@@ -1,6 +1,6 @@
 # busybox-static:
-<p>Homepage: http://www.busybox.net</p>
-<p>Binary source: <a href="http://ports.ubuntu.com/ubuntu-ports/pool/main/b/busybox/busybox-static_1.30.1-7ubuntu3_arm64.deb">busybox-static-arm64</a></p>
+<p><h3>Homepage:</h3> http://www.busybox.net</p>
+<p><h3>Binary source:</h3> http://ports.ubuntu.com/ubuntu-ports/pool/main/b/busybox/busybox-static_1.30.1-7ubuntu3_arm64.deb</p>
 <p>
  Busybox is standalone rescue shell with tons of builtin utilities.
  BusyBox combines tiny versions of many common UNIX utilities into a single
